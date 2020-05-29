@@ -148,7 +148,7 @@ F - Miscellaneous
 10. The minimum number of Committee members is 4. 
 
 #### Additional Committee Members
-11. The Committee may co-opt additional Committee members to serve until the next Committee elections. These members are considered to be members of the Committee but do not hold a Committee position.  
+11. The Committee may co-opt additional Committee members.  
 
 #### Eligibility  
 12. All members of the Committee must be School of Computing students at Edinburgh Napier University and paying members of ENUSEC.  

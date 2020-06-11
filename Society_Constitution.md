@@ -253,4 +253,4 @@ F - Miscellaneous
 
 | Date | Clauses amended | Reason for changes |
 |---|---|---|
-| Date| Clauses | Test table |
+| 10/06/20 | A-F | 2020 AGM Anmendments |

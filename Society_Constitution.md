@@ -1,7 +1,7 @@
 # ENUSEC
 ## Society Constitution  
 
-The Committee would like to recognise the considerable contribution to the constitution by Peter Aaby, Euan Mcfadzean and James Angus.  
+The Committee would like to recognise the considerable contribution to the constitution by Peter Aaby, Euan McFadzean and James Angus.  
 
 ### Table of Contents
 
